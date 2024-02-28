@@ -1,3 +1,4 @@
+package basicClass;
 import java.util.*;
 import java.text.SimpleDateFormat; // 1．インポート
 import java.util.Date;
